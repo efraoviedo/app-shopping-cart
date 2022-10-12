@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://efraoviedo.github.io/app-shopping-cart",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
